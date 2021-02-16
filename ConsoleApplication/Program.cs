@@ -10,6 +10,7 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
+            //Welcome note
             Console.WriteLine("Welcome to git world");
         }
     }
