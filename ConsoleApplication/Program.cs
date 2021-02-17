@@ -12,6 +12,7 @@ namespace ConsoleApplication
         {
             //Welcome note
             Console.WriteLine("Welcome to git world");
+            Console.ReadLine();
         }
     }
 }
