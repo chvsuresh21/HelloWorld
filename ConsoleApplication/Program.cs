@@ -11,7 +11,8 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             //Welcome note..
-            //Changes for Cherry pick testing
+            //Changes for Cherry pick testingn
+            //Cherri pick comment 2 changes
             Console.WriteLine("Welcome to git world");
         }
     }
